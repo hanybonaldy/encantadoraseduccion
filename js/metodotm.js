@@ -10,4 +10,4 @@ setTimeout(() => {
     txt[1].style.display = "block";
     offer[0].style.display = "block";
     comments[0].style.display = "block";
-}, 1580)
+}, 1580 * 1000)
