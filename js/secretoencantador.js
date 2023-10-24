@@ -4,10 +4,10 @@ const offer = document.getElementsByClassName("offer");
 const comments = document.getElementsByClassName("face-comments");
 
 setTimeout(() => {
-    btn[0].style.display = "block";
-    btn[1].style.display = "block";
-    txt[0].style.display = "block";
-    txt[1].style.display = "block";
-    offer[0].style.display = "block";
-    comments[0].style.display = "block";
-}, 1/* 1620 * 1000 */)
+  btn[0].style.display = "block";
+  btn[1].style.display = "block";
+  txt[0].style.display = "block";
+  txt[1].style.display = "block";
+  offer[0].style.display = "block";
+  comments[0].style.display = "block";
+}, 1620 * 1000);
