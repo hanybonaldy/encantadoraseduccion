@@ -17,6 +17,8 @@ body {
   font-weight: 400;
   font-style: normal;
   font-size: 1.6rem;
+  padding: 0px;
+  margin: 0px;
 }
 
 header {
