@@ -168,6 +168,10 @@ header {
   font-size: 10px;
 }
 
+.text_2 {
+  font-size: 12px !important;
+}
+
 .price__container {
   padding: 50px 20px;
   border-radius: 5px;
